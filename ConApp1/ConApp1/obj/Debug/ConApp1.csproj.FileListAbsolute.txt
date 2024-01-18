@@ -1,0 +1,7 @@
+E:\phase 3 class\day 8\ConApp1\ConApp1\bin\Debug\ConApp1.exe.config
+E:\phase 3 class\day 8\ConApp1\ConApp1\bin\Debug\ConApp1.exe
+E:\phase 3 class\day 8\ConApp1\ConApp1\bin\Debug\ConApp1.pdb
+E:\phase 3 class\day 8\ConApp1\ConApp1\obj\Debug\ConApp1.csproj.AssemblyReference.cache
+E:\phase 3 class\day 8\ConApp1\ConApp1\obj\Debug\ConApp1.csproj.CoreCompileInputs.cache
+E:\phase 3 class\day 8\ConApp1\ConApp1\obj\Debug\ConApp1.exe
+E:\phase 3 class\day 8\ConApp1\ConApp1\obj\Debug\ConApp1.pdb
